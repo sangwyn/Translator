@@ -1,3 +1,4 @@
+//lollll
 #include "SyntaxAnalyzer.h"
 
 //семантика которую пока некуда деть
