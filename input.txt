@@ -1,0 +1,9 @@
+int func(int z, bool y, list[4]int xx){
+
+}
+
+string main() {
+
+const int b, c;
+    return ")";
+}

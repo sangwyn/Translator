@@ -1,6 +1,0 @@
-# ninja log v5
-5	1100	6969644195096276	CMakeFiles/translator.dir/main.cpp.obj	7d084eb211a6d7df
-3	262	6977139252630669	build.ninja	7fd159cb1a20237b
-1236	1532	6969644199386186	translator.exe	83914a280037678a
-14	1236	6969644196456223	CMakeFiles/translator.dir/SyntaxAnalyzer.cpp.obj	8b93c86e86ad0d69
-9	1171	6969625345651429	CMakeFiles/translator.dir/LexicalAnalyzer.cpp.obj	7891724a97f116e2
